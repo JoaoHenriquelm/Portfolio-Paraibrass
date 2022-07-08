@@ -1,0 +1,18 @@
+body {
+    background-image: url("src/imagens/Portfolio\ Paraibrass.svg");
+}
+
+div.video {
+    margin: 0 -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 56.4%;
+    position: relative;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 50%;
+    height: 50%;
+}
